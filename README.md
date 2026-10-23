@@ -1,115 +1,149 @@
-<h1 align="center">🚀 𝗗𝗲𝗿𝗶𝘃 𝗕𝗼𝘁𝘀 𝗫𝗠𝗟 𝗖𝗼𝗹𝗹𝗲𝗰𝘁𝗶𝗼𝗻 📄</h1>
+<div align="center">
 
-<p align="center">
-Accurate set of XML bots for <a href="https://t.deriv.link?t=ABTHJJZETLX3">bot.deriv.com</a>  optimized for performance, precision, and profit.
-</p>
+<img src="banner.png" alt="Deriv Bots XML Collection" width="100%" />
+
+# 🚀 Deriv Bots XML Collection
+
+**A curated set of XML bots for [bot.deriv.com](https://t.deriv.link?t=ABTHJJZETLX3) — built for speed, precision, and disciplined risk.**
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](#-license)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](#-contributing)
+[![Made for Deriv](https://img.shields.io/badge/platform-Deriv%20Bot-FF444F.svg)](https://t.deriv.link?t=ABTHJJZETLX3)
+[![Bots](https://img.shields.io/badge/bots-40%2B%20premium-blueviolet.svg)](#-premium-combo-offer)
+
+[WhatsApp](https://wa.me/Deriv_Pro) · [Telegram](https://t.me/Deriv_Pro) · [Email](mailto:derivbots@yahoo.com) · [Community](https://t.me/Deriv_Pro_Bots)
+
+</div>
 
 ---
 
-## 🔧 What’s Inside
+## 📑 Table of Contents
 
-This repo contains a collection of XML-based Deriv bots designed for automated binary options trading. These bots leverage strategies like:
+- [What's Inside](#-whats-inside)
+- [Included Strategies](#-included-strategies)
+- [Getting Started](#-getting-started)
+- [Pro Tips](#-pro-tips)
+- [Risk Disclaimer](#-risk-disclaimer)
+- [Premium Combo Offer](#-premium-combo-offer)
+- [Join the Inner Circle](#-join-the-inner-circle)
+- [Contributing](#-contributing)
+- [Support the Project](#-support-the-project)
+- [License](#-license)
 
-- ✅ Tick movement analysis  
-- ✅ Last digit pattern recognition  
-- ✅ Trend indicators  
-- ✅ Visual strategy mapping  
+---
 
-They’re built for traders who want high win rates with controlled risk. Martingale stages are supported, but use with caution.
+## 🔧 What's Inside
 
---
-<p align="center">
-  <a href="https://wa.me/Deriv_Pro"><img src="https://img.shields.io/badge/WhatsApp-Chat-25D366?logo=whatsapp&logoColor=white" alt="WhatsApp"></a>
-  <a href="https://t.me/Deriv_Pro"><img src="https://img.shields.io/badge/Telegram-Message-26A5E4?logo=telegram&logoColor=white" alt="Telegram"></a>
-</p>
+A collection of XML-based Deriv bots for automated binary options trading. Each bot is self-contained — upload the `.xml` file to the Deriv Bot Builder and it runs.
 
-## 🧠 How to Get Started
+Built for traders who want **high win rates with controlled risk**. Martingale stages are supported, but use with caution.
 
-1. Visit [bot.deriv.com](https://t.deriv.link?t=ABTHJJZETLX3)  
-3. Upload any `.xml` bot file from this repo  
-4. Run the bot  
-5. Monitor performance and adjust as needed  
+**Core techniques used across the collection:**
+
+| Technique | Description |
+| --- | --- |
+| ✅ Tick movement analysis | Reads short-term price direction from tick flow |
+| ✅ Last digit pattern recognition | Exploits digit distributions on synthetic indices |
+| ✅ Trend indicators | Moving averages, momentum, and breakout logic |
+| ✅ Visual strategy mapping | Blocks are laid out and labelled for easy editing |
+
+---
+
+## 📂 Included Strategies
+
+> Update this table as you add bots. Buyers want to see inventory.
+
+| Bot | Strategy | Market | Risk Level | File |
+| --- | --- | --- | --- | --- |
+| _Example_ | Last digit reversal | Volatility 100 | Medium | `bots/digit-reversal.xml` |
+| _Example_ | Tick momentum scalp | Volatility 75 | Low | `bots/tick-momentum.xml` |
+| _Example_ | Trend-following breakout | Volatility 25 | High | `bots/breakout.xml` |
+
+---
+
+## 🧠 Getting Started
+
+1. Create a free account on [bot.deriv.com](https://t.deriv.link?t=ABTHJJZETLX3)
+2. Switch to a **demo account** first
+3. Open the Bot Builder and **upload** any `.xml` file from this repo
+4. Run the bot
+5. Monitor performance and adjust stake/parameters as needed
 6. 💰 Profit (responsibly)
 
----
-
-![AI-Fintech](https://user-images.githubusercontent.com/57016982/170944162-b0775598-289a-49a3-85c6-2c0af545741c.jpg)
-
-> ⚠️ These bots are intended for experienced traders. Always test on demo accounts first and consult a financial advisor like me before going live.
-
----
-
-## 💬 My Contacts & Mentorship Inquiries
-
-Want premium bots or 1-on-1 guidance? Reach out:
-
-- 📱 WhatsApp: [Chat Now](https://wa.me/Deriv_Pro)  
-- 💬 Telegram: [Deriv Pro](https://t.me/Deriv_Pro)  
-- 📧 Email: derivbots@yahoo.com
-
----
-
-## 💸 Premium Bot Combo Offer
-
-There are over 40+ premium bots and strategies available  plus lifetime access to future releases. Test, compare, and find your perfect fit.
-
-- Combo deal includes all bots + future updates or buy bots individually
-- Contact me for pricing:
-- 📱 WhatsApp: [Chat Now](https://wa.me/Deriv_Pro)  
-- 💬 Telegram: [Deriv Pro](https://t.me/Deriv_Pro)  
-- 📧 Email: derivbots@yahoo.com
+**Requirements:** a Deriv account and a browser. No install, no dependencies — the bots run entirely in the Deriv Bot Builder.
 
 ---
 
 ## 🧠 Pro Tips
 
-- Use stop-loss and proper risk management  
-- Always test bots on demo before going live  
-- Track performance and tweak strategies  
-- Never rely solely on automation — stay informed  
-- Past results ≠ future guarantees
+- Always set a stop-loss and size stakes properly
+- Test every bot on demo before going live
+- Track results and tweak parameters per market
+- Never rely solely on automation — stay informed
+- Past performance ≠ future guarantees
+
+---
+
+## ⚠️ Risk Disclaimer
+
+These bots are intended for **experienced traders**. Binary options carry real risk of loss. Test on demo accounts first, never trade money you can't afford to lose, and treat any bot as a tool — not a guarantee.
+
+---
+
+## 💸 Premium Combo Offer
+
+**40+ premium bots and strategies**, plus lifetime access to all future releases.
+
+- Combo deal: every bot + all future updates
+- Or buy bots individually
+- Test, compare, and find your perfect fit
+
+Contact me for pricing: [WhatsApp](https://wa.me/Deriv_Pro) · [Telegram](https://t.me/Deriv_Pro) · [Email](mailto:derivbots@yahoo.com)
 
 ---
 
 ## 💎 Join the Inner Circle
 
-Step into a private trading community built for precision, profit, and elite strategy sharing.
+A private trading community built for precision, profit, and elite strategy sharing.
 
-**𝐓𝐄𝐋𝐄𝐆𝐑𝐀𝐌:** [𝗖𝗟𝗜𝗖𝗞 𝗛𝗘𝗥𝗘](https://t.me/Deriv_Pro_Bots)  
-**𝐖𝐇𝐀𝐓𝐒𝐀𝐏𝐏:** [𝗖𝗟𝗜𝗖𝗞 𝗛𝗘𝗥𝗘](https://chat.whatsapp.com/IRaeFQiF7OFJwd4i2HBG3B)
+[**Telegram →**](https://t.me/Deriv_Pro_Bots) &nbsp;&nbsp;|&nbsp;&nbsp; [**WhatsApp →**](https://chat.whatsapp.com/IRaeFQiF7OFJwd4i2HBG3B)
 
-> Access premium bots, live strategy drops, and mentorship from top-tier traders.  
-> This isn’t just a group, it’s your edge.
-
----
-## 🤝 Contribute
-
-We welcome all contributions:
-
-- Submit issues or feature requests  
-- Share strategies or improvements  
-- Help others in the community  
-- Submit pull requests
+> Access premium bots, live strategy drops, and mentorship from top-tier traders.
+> This isn't just a group — it's your edge.
 
 ---
 
-## 📜 License
+## 🤝 Contributing
 
-This project is licensed under the MIT License.
+Contributions are welcome:
+
+- Open an issue for bugs or feature requests
+- Share strategies or improvements
+- Submit a pull request
+- Help others in the community
 
 ---
 
 ## 🙌 Support the Project
 
-If you’ve benefited from these bots, consider supporting by donating, contact me below for donation details:
+If these bots helped you, consider supporting the project — reach out for donation details:
 
-- 📱 WhatsApp: [Chat Now](https://wa.me/Deriv_Pro)  
-- 💬 Telegram: [Deriv Pro](https://t.me/Deriv_Pro)  
-- 📧 Email: derivbots@yahoo.com
+[WhatsApp](https://wa.me/Deriv_Pro) · [Telegram](https://t.me/Deriv_Pro) · [Email](mailto:derivbots@yahoo.com)
 
+---
 
-<p align="center">
-  <a href="https://wa.me/Deriv_Pro"><img src="https://img.shields.io/badge/WhatsApp-Chat-25D366?logo=whatsapp&logoColor=white" alt="WhatsApp"></a>
-  <a href="https://t.me/Deriv_Pro"><img src="https://img.shields.io/badge/Telegram-Message-26A5E4?logo=telegram&logoColor=white" alt="Telegram"></a>
-</p>
+## 📜 License
 
+Released under the **MIT License** — see [`LICENSE`](LICENSE) for details.
+
+---
+
+<div align="center">
+
+**Built and maintained by Deriv Pro**
+
+[WhatsApp](https://wa.me/Deriv_Pro) · [Telegram](https://t.me/Deriv_Pro) · [Email](mailto:derivbots@yahoo.com)
+
+<sub>Trade smart. Risk less. Stay consistent.</sub>
+
+</div>
